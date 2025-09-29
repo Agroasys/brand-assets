@@ -10,21 +10,21 @@ Agroasys – Web3 Agricultural Trade Settlement Platform
 
 ---
 
-## 🚀 Mission
+##  Mission
 To revolutionize how cross-border agricultural trade payments and settlements are executed across Africa by leveraging Web3 technologies, cryptography, and secure digital infrastructures—creating a transparent, efficient, and scalable settlement layer for agri-trade.
 
-## 🌍 Vision
+##  Vision
 To become Africa’s leading infrastructure provider for decentralized and secure cross-border agricultural trade settlements, setting the benchmark for transparency, interoperability, and efficiency in digital trade.
 
 ---
 
-## 🗂️ Repositories
+##  Repositories
 - **Prototype (Private)** – Vite + TypeScript + React + shadcn-ui + Tailwind CSS  
 *(Currently private and actively developed; public access coming soon.)*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend Framework:** React (Vite + TypeScript)  
 - **UI Components:** shadcn-ui, Tailwind CSS  
 - **Security / Blockchain Layer:** Custom cryptographic settlement modules (planned)  
@@ -32,7 +32,7 @@ To become Africa’s leading infrastructure provider for decentralized and secur
 
 ---
 
-## 🗺️ Platform Architecture (High-Level)
+##  Platform Architecture (High-Level)
 
 <p align="center">
   <img src="UPDATED.svg" alt="Agroasys Platform Architecture">
@@ -40,16 +40,16 @@ To become Africa’s leading infrastructure provider for decentralized and secur
 
 ---
 
-## 📅 Key Milestones
-- ✅ Prototype development (Vite + React + Tailwind CSS)  
-- 🔄 Integration of Ricardian Contract system  
-- 🔄 API Gateway with secure authentication  
-- 🔄 Cross-border settlement testnet launch  
-- 🎯 Full platform launch with strategic partners  
+##  Key Milestones
+-  Prototype development (Vite + React + Tailwind CSS)  
+-  Integration of Ricardian Contract system  
+-  API Gateway with secure authentication  
+-  Cross-border settlement testnet launch  
+-  Full platform launch with strategic partners  
 
 ---
 
-## 👥 Team
+##  Team
 | Name | Role | GitHub |
 |-------|------|--------|
 | Aston Steven | Founder & Managing Director | [Astonstevn](https://github.com/Astonstevn) |
@@ -59,12 +59,12 @@ To become Africa’s leading infrastructure provider for decentralized and secur
 ---
 
 ## 📬 Contact & Links
-- 🌐 Website: [https://agroasys.com](https://agroasys.com)
-- 💼 LinkedIn: [company/agroasys](https://linkedin.com/company/agroasys)
-- 📷 Instagram: [@agroasys](https://www.instagram.com/agroasys)
-- 👍 Facebook: [Agroasys](https://www.facebook.com/agroasys)
-- 🐦 Twitter: [@agroasys](https://www.twitter.com/agroasys)
-- 📧 Email: [support@agroasys.com](mailto:support@agroasys.com)
+-  Website: [https://agroasys.com](https://agroasys.com)
+-  LinkedIn: [company/agroasys](https://linkedin.com/company/agroasys)
+-  Instagram: [@agroasys](https://www.instagram.com/agroasys)
+-  Facebook: [Agroasys](https://www.facebook.com/agroasys)
+-  Twitter: [@agroasys](https://www.twitter.com/agroasys)
+-   Email: [support@agroasys.com](mailto:support@agroasys.com)
 
 ---
 

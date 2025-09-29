@@ -35,7 +35,7 @@ To become Africa’s leading infrastructure provider for decentralized and secur
 ##  Platform Architecture (High-Level)
 
 <p align="center">
-  <img src="UPDATED.svg" alt="Agroasys Platform Architecture">
+  <img src="Architecture-overview.svg" alt="Agroasys Platform Architecture">
 </p>
 
 ---
